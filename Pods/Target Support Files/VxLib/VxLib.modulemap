@@ -1,0 +1,6 @@
+framework module VxLib {
+  umbrella header "VxLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
